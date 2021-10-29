@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<libros>
+    <libro id="1">
+        <titol>Pepe va a l'escola</titol>
+        <autor>Pepe</autor>
+        <any_publicacio>2021</any_publicacio>
+        <editorial>Edelvives</editorial>
+        <pagines>Edelvives</pagines>
+    </libro>
+    <libro id="2">
+        <titol>Ximo va al bus</titol>
+        <autor>Ximo</autor>
+        <any_publicacio>2019</any_publicacio>
+        <editorial>Federico</editorial>
+        <pagines>Federico</pagines>
+    </libro>
+    <libro id="3">
+        <titol>Comprem el pa</titol>
+        <autor>Panaderia</autor>
+        <any_publicacio>2020</any_publicacio>
+        <editorial>Panaderia</editorial>
+        <pagines>Panaderia</pagines>
+    </libro>
+    <libro id="4">
+        <titol>Com programar</titol>
+        <autor>pepe</autor>
+        <any_publicacio>2021</any_publicacio>
+        <editorial>pepemola</editorial>
+        <pagines>196</pagines>
+    </libro>
+        <libro id="5">
+        <titol>Com platar tomaques</titol>
+        <autor>josep</autor>
+        <any_publicacio>1995</any_publicacio>
+        <editorial>josep i el ort</editorial>
+        <pagines>79</pagines>
+    </libro>
+</libros>
